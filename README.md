@@ -7,7 +7,7 @@
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-como-executar">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-produção">Como executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-produção">Produção</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">Licença</a>
 </p>
 
@@ -23,7 +23,7 @@
   <img alt="Happy" src=".github/moveit.png" width="100%">
 </p>
 
-## ✨ Tecnologias
+## 💻 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -31,17 +31,17 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 
-## 💻 Projeto
+## 🧩 Projeto
 
 O move.it é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador.
 
 Esse projeto foi desenvolvido durante a trilha de ReactJS, na quarta edição da NLW by Rocketseat.
 
-## 🔖 Layout
+## 🎬 Layout
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/ge20pu3ofMOKoliUyKx1Nl/Move.it-1.0). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
-## 🚀 Como executar
+## ✅ Como executar
 
 - Clone o repositório
 - Instale as dependências com `yarn`
@@ -49,7 +49,7 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
-## 📄 Produção
+## ⚙️ Produção
 
 https://moveit-pearl-ten.vercel.app/
 
